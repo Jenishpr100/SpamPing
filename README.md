@@ -5,8 +5,8 @@
 const MESSAGE = "@everyone UwU UwU Nyaa Nyaa";
 ```
 
-The `@everyone UwU UwU Nyaa Nyaa` is the thing that is going to be spammed.
-- You can chnage it as your linking
+The `@everyone UwU UwU Nyaa Nyaa` is the thing that is going to be sent.
+- You can chnage it as your liking
 
   ---
 
