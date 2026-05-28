@@ -28,7 +28,7 @@ This will add:
 
 ### Add another file called `a.js`
 
-* In the file, add the content from `a.js`.
+* In the file, add the content from [`a.js`](https://jenishpr100.github.io/SpamPing/a.js).
 
 ### Make a folder called `bots`
 
