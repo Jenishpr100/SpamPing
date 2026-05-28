@@ -24,6 +24,30 @@ This will add:
 3) `package-lock.json`
 
 ### Add another files called `a.js`
-- In the file, add the content of [`a.js`](https://github.com/Jenishpr100/SpamPing/blob/main/a.js)
-- 
-  
+- In the file, add the content of [`a.js`]([https://github.com/Jenishpr100/SpamPing/blob/main/a.js](https://jenishpr100.github.io/SpamPing/a.js))
+- Make a folder called `bots`
+- In the `bots` folder, add `.env` files like `bot1.env`, `bot2.env`...
+- In the `.env` files, make sure the content is:
+
+```botn.env
+TOKEN=TOKEN
+CHANNEL_ID=ID
+```
+Where `TOKEN` is the Token of bots and `CHANNEL_ID` is the ID of the channel you're trying to spam in.
+This can include diffenrnt bots and different channels.
+
+Youre files should look something like 
+
+- `Main folder\`
+  - `bots\`
+    - `bot1.env`
+    - `bot2.env`
+    - ... 
+  - `node_moudles\`
+  - `a.js`
+  - `package-lock.json`
+  - `package.json`
+
+
+Of course, use this wisely, theres NO warantee for this.
+The code is public for anyone to use and modify as their want.
