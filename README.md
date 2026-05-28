@@ -13,7 +13,7 @@ The `@everyone UwU UwU Nyaa Nyaa` is the thing that is going to be sent.
 # Setting up the bot
 
 - Open a folder
-- In the terminal, run:
+- In the terminal of the folder, run:
 ```bash
 npm init -y
 npm install discord.js dotenv
