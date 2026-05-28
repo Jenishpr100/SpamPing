@@ -1,5 +1,5 @@
 # This is a spam bot!
-- This bot is ment to spam users with pings.
+- This bot is ment to automitically send substantial number of messages consisting pings.
 - in the code, line 8, it says:
 ```js
 const MESSAGE = "@everyone UwU UwU Nyaa Nyaa";
@@ -24,14 +24,14 @@ This will add:
 3) `package-lock.json`
 
 ### Add another files called `a.js`
-- In the file, add the content of [`a.js`]([https://github.com/Jenishpr100/SpamPing/blob/main/a.js](https://jenishpr100.github.io/SpamPing/a.js))
+- In the file, add the content of [`a.js`](https://jenishpr100.github.io/SpamPing/a.js)
 - Make a folder called `bots`
 - In the `bots` folder, add `.env` files like `bot1.env`, `bot2.env`...
 - In the `.env` files, make sure the content is:
 
 ```botn.env
-TOKEN=TOKEN
-CHANNEL_ID=ID
+TOKEN=YOUR_TOKEN
+CHANNEL_ID=YOUR_CHANNEL_ID
 ```
 Where `TOKEN` is the Token of bots and `CHANNEL_ID` is the ID of the channel you're trying to spam in.
 This can include diffenrnt bots and different channels.
@@ -43,7 +43,7 @@ Youre files should look something like
     - `bot1.env`
     - `bot2.env`
     - ... 
-  - `node_moudles\`
+  - `node_modules\`
   - `a.js`
   - `package-lock.json`
   - `package.json`
