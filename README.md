@@ -25,7 +25,7 @@ This will add:
 
 ### Add another files called `a.js`
 - In the file, add the content of [`a.js`](https://jenishpr100.github.io/SpamPing/a.js)
-- Make a folder called `bots`
+### Make a folder called `bots`
 - In the `bots` folder, add `.env` files like `bot1.env`, `bot2.env`...
 - In the `.env` files, make sure the content is:
 
