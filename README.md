@@ -35,6 +35,7 @@ CHANNEL_ID=YOUR_CHANNEL_ID
 ```
 Where `TOKEN` is the Token of bots and `CHANNEL_ID` is the ID of the channel you're trying to spam in.
 This can include diffenrnt bots and different channels.
+- Make sure to use NO "quotation" or (parentheses)
 
 Youre files should look something like 
 
